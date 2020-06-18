@@ -39,5 +39,7 @@ public class hashMapEjemplo {
         for(Map.Entry<String, Integer> entry: paresNumeros.entrySet()){
             System.out.println(entry.getKey() + ";" + entry.getValue());
         }
+        
+        
     }
 }
