@@ -32,7 +32,7 @@ public class JavaCollections {
         //System.out.println("Despues de eliminar toda la lista: "+lenguajesProgramacion);
         
         //RECORRER LA COLECCION
-        //Iterando con  Java8 forEach
+        //Iterando con  Java 8 forEach
         System.out.println("\nRecorremos la lista utilizando forEach");
         lenguajesProgramacion.forEach(lenguajeProgramacion -> {
             System.out.println(lenguajeProgramacion);
@@ -63,7 +63,6 @@ public class JavaCollections {
         System.out.println("\nLenguajes sin ordenar: "+lenguajesProgramacion);
         lenguajesProgramacion.sort(Comparator.naturalOrder());
         System.out.println("Lenguajes ordenados: "+lenguajesProgramacion);
-        
         
     }   
     
