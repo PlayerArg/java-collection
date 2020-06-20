@@ -1,11 +1,11 @@
-package javacollections;
+package arraylist;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Iterator;
 import java.util.List;
 
-public class JavaCollections {
+public class ArrayListEjemplo {
 
     public static void main(String[] args) {
         
